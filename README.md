@@ -1,92 +1,88 @@
-Here’s your updated GitHub profile README:  
-
----
-
 # 👋 Hi, I’m @Thembinkosi-Twala  
 
-Welcome to my GitHub profile! Here's a bit about me:  
-
-- 👀 **I’m interested in**: Web development, software engineering, machine learning, and open-source contributions.  
-- 🌱 **I’m currently learning**: DevOps, cloud computing (AWS & Azure), containerization (Docker, Kubernetes), and modern web frameworks (React, Blazor).  
-- 💞️ **I’m looking to collaborate on**: Open-source projects, web technologies, cloud-based applications, and DevOps automation.  
-- 📫 **How to reach me**:  
-  - 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  
-  - 📧 Email: [ttwalaskhandisa@gmail.com](mailto:ttwalaskhandisa@gmail.com)  
-  - 🔗 Portfolio: [twalat-portfolio.vercel.app](https://twalat-portfolio.vercel.app)  
-- 😄 **Pronouns**: He/Him  
-- ⚡ **Fun fact**: I once built a working AI chatbot in a weekend! 😄  
+Welcome to my GitHub profile! I’m a **Full-Stack Developer** with a background in **ICT support, cloud computing, and DevOps**. I specialize in **web development, backend systems, and cloud-based applications**, continuously expanding my expertise in **AWS, Azure, and containerization**.  
 
 ---
 
 ## 👨‍💻 About Me  
 
-I am a **motivated Junior Full-Stack Developer** with a strong foundation in ICT support, networking, and cloud technologies. My expertise spans **front-end and back-end development**, leveraging technologies like **PHP, C#, .NET, JavaScript**, and modern frameworks like **Laravel and MudBlazor**.  
+I bring a **unique blend of development, cloud, and networking expertise**, having worked on full-stack applications and DevOps pipelines. My journey has equipped me with **C#, .NET, PHP, JavaScript, AWS, and Docker** skills, allowing me to build and deploy scalable applications.  
 
-With hands-on experience in **AWS and Azure**, I bring a **cloud-first** approach to application development and deployment. At **Phungela**, I honed my skills in:  
-✅ **Building responsive web applications**  
-✅ **Developing RESTful APIs**  
-✅ **Implementing DevOps pipelines** with **Docker & CI/CD**  
-✅ **Troubleshooting complex network issues** to ensure seamless performance  
+### 🔹 **Current Role:** Full-Stack Developer | Phungela (Aug 2023 – Present)  
+- ✅ **Web Development**: Developed full-stack applications using **C#, .NET, PHP (Laravel), and MudBlazor**.  
+- ✅ **Cloud & DevOps**: Implemented **CI/CD pipelines, Dockerized applications, and deployed workloads to AWS & Azure**.  
+- ✅ **ICT Support**: Provided technical troubleshooting and networking support for seamless operations.  
+- ✅ **Agile & Collaboration**: Worked in **Scrum & Kanban teams**, maintaining high code quality through GitHub workflows and peer reviews.  
 
-I am passionate about **continuous learning** and staying ahead of **industry trends**. From participating in **Agile development** to optimizing **database schemas and performance**, I thrive in **collaborative environments** that prioritize innovation and quality.  
-
----
-
-## 🔧 Technologies & Tools I Work With  
-
-- **Languages**:  
-  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
-
-- **Web Frameworks**:  
-  ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)  
-  ![MudBlazor](https://img.shields.io/badge/MudBlazor-593D88?style=flat-square&logo=dotnet&logoColor=white)  
-
-- **DevOps & Cloud**:  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
-  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)  
-
-- **Tools**:  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)  
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+### 🎯 **Past Experience Highlights**  
+- 🏬 **Retail ICT Support**: Spar Retail Store (2022 – 2023)  
+- 💡 **ICT Internship**: Tlou Foundation College (2020 – 2021)  
+- 🔧 **Freelance Web Development & IT Support** (2018 – 2019)  
+- 🎓 **Final Year Project**: High School Management System (DUT, 2017)  
 
 ---
 
-## 📜 Certifications & Learning Roadmap  
+## 🔧 Technologies & Tools  
 
-🎯 **Certifications in Progress**:  
-- **AWS Certified DevOps Engineer - Professional**  
-- **Docker Certified Associate (DCA)**  
-- **Certified Kubernetes Administrator (CKA)**  
-- **HashiCorp Certified: Terraform Associate**  
-- **Microsoft Certified: DevOps Engineer Expert**  
+### **Languages**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 
-📅 **Learning Roadmap**:  
-✅ Web & Cloud Development (PHP, C#, .NET, Blazor, React, Laravel)  
-✅ DevOps & Automation (Docker, Kubernetes, Terraform, CI/CD)  
-✅ Cloud Computing (AWS, Azure)  
-✅ Security Best Practices in DevOps  
+### **Frameworks & Tools**  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)  
+![MudBlazor](https://img.shields.io/badge/MudBlazor-593D88?style=flat-square&logo=dotnet&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+
+### **Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
+
+### **Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+
+---
+
+## 📜 Certifications & Education  
+
+🎓 **Education**:  
+- **National Diploma in IT** – Durban University of Technology  
+- **Huawei Certified ICT Associate – Cloud Computing**  
+- **National Certificate: Systems Development** – Tlou Foundation College  
+- **Certificate: Systems Development** – Dynamic DNA  
+
+📜 **Certifications in Progress**:  
+- AWS Certified DevOps Engineer  
+- Docker Certified Associate  
+- Certified Kubernetes Administrator  
+- HashiCorp Certified: Terraform Associate  
+- Microsoft Certified: DevOps Engineer Expert  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Thembinkosi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thembinkosi-Twala&show_icons=true&theme=radical)  
+### 📈 Total Contributions & Commits  
+- **Total Contributions (2023 - Present):** **200+**  
+- **Total Commits (2024 so far):** **180+**  
+- **Active Repositories:** **10+**  
+- **Notable Contributions:** **Phungela-Github/DocumentManagementSystem, LesaLMS, WorkflowAutomationSystem, Loada Platform, Stereo**  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thembinkosi-Twala&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thembinkosi-Twala&layout=compact&theme=radical)  
 
 ---
 
-### 📌 Let's Connect & Collaborate!  
+### 📌 Let's Connect  
 
 💼 **Portfolio**: [twalat-portfolio.vercel.app](https://twalat-portfolio.vercel.app)  
 📧 **Email**: [ttwalaskhandisa@gmail.com](mailto:ttwalaskhandisa@gmail.com)  
-🔗 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  
+🔗 **LinkedIn**: [Thembinkosi Twala](https://www.linkedin.com/in/thembinkosi-twala-601228102/)  
 🚀 **GitHub**: [TwalaT-Code](https://github.com/TwalaT-Code)  
 
-Let's build something **awesome** together! 😊🚀
+Let's build something **awesome** together! 😊🚀 
