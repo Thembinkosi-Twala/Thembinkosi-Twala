@@ -45,7 +45,8 @@ I bring a **unique blend of development, cloud, and networking expertise**, havi
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=SSMS&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
 
 ---
 
