@@ -46,18 +46,13 @@ I bring a **unique blend of development, cloud, and networking expertise**, havi
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
-
----
-
-This properly includes **Microsoft SQL Server** along with your other database tools. Let me know if you want further refinements! 🚀  
-
 ---
 
 ## 📜 Certifications & Education  
 
 🎓 **Education**:  
 - **National Diploma in IT** – Durban University of Technology  
-- **Huawei Certified ICT Associate – Cloud Computing**  
+- **Huawei Certified ICT Associate(HCIA) – Cloud Computing**  
 - **National Certificate: Systems Development** – Tlou Foundation College  
 - **Certificate: Systems Development** – Dynamic DNA  
 
@@ -88,6 +83,6 @@ This properly includes **Microsoft SQL Server** along with your other database t
 💼 **Portfolio**: [twalat-portfolio.vercel.app](https://twalat-portfolio.vercel.app)  
 📧 **Email**: [ttwalaskhandisa@gmail.com](mailto:ttwalaskhandisa@gmail.com)  
 🔗 **LinkedIn**: [Thembinkosi Twala](https://www.linkedin.com/in/thembinkosi-twala-601228102/)  
-🚀 **GitHub**: [TwalaT-Code](https://github.com/TwalaT-Code)  
+🚀 **GitHub**: [thembinkosi-twala](https://github.com/Thembinkosi-Twala/Thembinkosi-Twala)  
 
 Let's build something **awesome** together! 😊🚀 
