@@ -61,7 +61,10 @@ I bring a **unique blend of development, cloud, and networking expertise**, havi
 - Docker Certified Associate  
 - Certified Kubernetes Administrator  
 - HashiCorp Certified: Terraform Associate  
-- Microsoft Certified: DevOps Engineer Expert  
+- Microsoft Certified: DevOps Engineer Expert
+- OCI MultiCould Architect
+- OCI DevOps Proffesional
+-   
 
 ---
 
